@@ -7,6 +7,9 @@ This glossary provides definitions and explanations for key concepts related to 
 ### API (Application Programming Interface)
 An API is a set of rules and protocols that allows different software applications to communicate with each other. It defines the methods and data structures that developers can use to interact with a software component or service.
 
+### API Client
+Any application that invokes the API.
+
 ## C
 
 ### Cloud Computing
